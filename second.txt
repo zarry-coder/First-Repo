@@ -1,0 +1,3 @@
+This is the second file from linux machine debian.
+This was to test git from linux point of view.
+:0)))))
